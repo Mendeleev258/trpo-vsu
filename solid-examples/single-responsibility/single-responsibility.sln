@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "good", "good\good.csproj", "{EF4558C9-9BFC-4106-9436-CA25FF4B33EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bad", "bad\bad.csproj", "{919ABE33-4602-478C-91B2-A1E7E2F55D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4558C9-9BFC-4106-9436-CA25FF4B33EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4558C9-9BFC-4106-9436-CA25FF4B33EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4558C9-9BFC-4106-9436-CA25FF4B33EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4558C9-9BFC-4106-9436-CA25FF4B33EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919ABE33-4602-478C-91B2-A1E7E2F55D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919ABE33-4602-478C-91B2-A1E7E2F55D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919ABE33-4602-478C-91B2-A1E7E2F55D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919ABE33-4602-478C-91B2-A1E7E2F55D24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
