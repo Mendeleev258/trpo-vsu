@@ -1,0 +1,15 @@
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/interface-segregation/good/bin/Debug/net10.0/good
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/interface-segregation/good/bin/Debug/net10.0/good.deps.json
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/interface-segregation/good/bin/Debug/net10.0/good.runtimeconfig.json
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/interface-segregation/good/bin/Debug/net10.0/good.dll
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/interface-segregation/good/bin/Debug/net10.0/good.pdb
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/interface-segregation/good/obj/Debug/net10.0/good.GeneratedMSBuildEditorConfig.editorconfig
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/interface-segregation/good/obj/Debug/net10.0/good.AssemblyInfoInputs.cache
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/interface-segregation/good/obj/Debug/net10.0/good.AssemblyInfo.cs
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/interface-segregation/good/obj/Debug/net10.0/good.csproj.CoreCompileInputs.cache
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/interface-segregation/good/obj/Debug/net10.0/good.sourcelink.json
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/interface-segregation/good/obj/Debug/net10.0/good.dll
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/interface-segregation/good/obj/Debug/net10.0/refint/good.dll
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/interface-segregation/good/obj/Debug/net10.0/good.pdb
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/interface-segregation/good/obj/Debug/net10.0/good.genruntimeconfig.cache
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/interface-segregation/good/obj/Debug/net10.0/ref/good.dll

@@ -1,0 +1,15 @@
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/dependency-inversion/bad/bin/Debug/net10.0/bad
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/dependency-inversion/bad/bin/Debug/net10.0/bad.deps.json
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/dependency-inversion/bad/bin/Debug/net10.0/bad.runtimeconfig.json
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/dependency-inversion/bad/bin/Debug/net10.0/bad.dll
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/dependency-inversion/bad/bin/Debug/net10.0/bad.pdb
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/dependency-inversion/bad/obj/Debug/net10.0/bad.GeneratedMSBuildEditorConfig.editorconfig
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/dependency-inversion/bad/obj/Debug/net10.0/bad.AssemblyInfoInputs.cache
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/dependency-inversion/bad/obj/Debug/net10.0/bad.AssemblyInfo.cs
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/dependency-inversion/bad/obj/Debug/net10.0/bad.csproj.CoreCompileInputs.cache
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/dependency-inversion/bad/obj/Debug/net10.0/bad.sourcelink.json
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/dependency-inversion/bad/obj/Debug/net10.0/bad.dll
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/dependency-inversion/bad/obj/Debug/net10.0/refint/bad.dll
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/dependency-inversion/bad/obj/Debug/net10.0/bad.pdb
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/dependency-inversion/bad/obj/Debug/net10.0/bad.genruntimeconfig.cache
+/home/mendel/projects/RiderProjects/trpo-vsu/solid-examples/dependency-inversion/bad/obj/Debug/net10.0/ref/bad.dll
